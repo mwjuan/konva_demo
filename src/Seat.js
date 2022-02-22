@@ -16,13 +16,13 @@ const Seat = props => {
   const isBooked = props.data.status === "booked";
 
   return (
-    <Circle
-      //star
-      // numPoints={5}
-      // innerRadius={5}
-      // outerRadius={3}
+    <Star
+     // Star 
+      numPoints={5}
+      innerRadius={5}
+      outerRadius={3}
 
-      //rect
+      //Rect
       // width={8}
       // height={8}
       // strokeWidth={1}
