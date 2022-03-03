@@ -11,15 +11,15 @@ const { TabPane } = Tabs;
 function App() {
   return (
     <div style={{ overflow: 'hidden' }}>
-      <Tabs defaultActiveKey='1' centered>
-        <TabPane tab='工位预订' key='1'>
+      <Tabs defaultActiveKey='2' centered>
+        <TabPane tab='工位预订(官方)' key='1'>
           <MainStage
             onSelectSeat={seatId => {
               console.log("selected - " + seatId);
             }}
           />
         </TabPane>
-        <TabPane tab='Shape Demo' key='2'>
+        <TabPane tab='工位预订' key='2'>
           <ShapeDemo />
         </TabPane>
       </Tabs>

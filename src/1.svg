@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3216px" height="1970px" viewBox="0 0 3216 1970" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A101</title>
+    <g id="A101" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="3216" height="1970"></rect>
+        <line x1="1172" y1="361.5" x2="1492" y2="361.5" id="直线备份-35" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1172" y1="509.5" x2="1492" y2="509.5" id="直线备份-34" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1172" y1="657.5" x2="1492" y2="657.5" id="直线备份-33" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1694" y1="361.5" x2="2014" y2="361.5" id="直线" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <g id="编组-2" transform="translate(100.000000, 174.000000)">
+            <g id="编组-7" transform="translate(154.000000, 0.000000)">
+                <line x1="0" y1="17" x2="24" y2="17" id="直线备份-31" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+                <text id="LAN" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" fill="#212121">
+                    <tspan x="40" y="25">LAN</tspan>
+                </text>
+            </g>
+            <g id="编组-3">
+                <line x1="0" y1="16.5" x2="24" y2="16.5" id="直线备份-32" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+                <text id="VIDEO" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" fill="#212121">
+                    <tspan x="40" y="25">VIDEO</tspan>
+                </text>
+            </g>
+        </g>
+        <line x1="2134" y1="361.5" x2="2534" y2="361.5" id="直线备份-5" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="730" y1="361.789691" x2="1049.9968" y2="360.357938" id="直线备份-11" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="278" y1="360.5" x2="598" y2="360.5" id="直线备份-18" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <polyline id="直线备份-4" stroke="#FFCC00" stroke-width="3" stroke-linecap="square" points="1692 834.72043 1902.52487 833.5 1902.52487 1060.5 2525.4113 1060.5"></polyline>
+        <polyline id="直线备份-28" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square" points="2213 1715.5 2259.12151 1715.5 2259.12151 1851.5 2492 1852"></polyline>
+        <path d="M1158.43471,792.205882 L1244.84445,792.205882 L1244.84445,672.311 C1265.05772,662.103667 1265.05772,652.666667 1244.84445,644 L1244.84445,523.748126 C1263.97844,514.249375 1263.97844,506 1244.84445,499 L1244.84445,377.950625 C1265.83442,366.983542 1265.83442,357.333333 1244.84445,349 L1244.84445,206.101773 L2434,206.101773 L2434,349 L2548.39883,349" id="路径-3" stroke="#FFCC00" stroke-width="3"></path>
+        <polyline id="直线备份-23" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square" transform="translate(1805.500000, 1550.000000) scale(-1, 1) translate(-1805.500000, -1550.000000) " points="1917 1615 1694 1615 1694 1485 1917 1485"></polyline>
+        <line x1="1492" y1="1791" x2="705.215073" y2="1791" id="直线备份-27" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1492" y1="1711" x2="945.215073" y2="1711" id="直线备份-36" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1694" y1="509.5" x2="2014" y2="509.5" id="直线备份" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="2134" y1="509.5" x2="2534" y2="509.5" id="直线备份-6" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1694" y1="657.5" x2="2014" y2="657.5" id="直线备份-2" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="2134" y1="657.5" x2="2534" y2="657.5" id="直线备份-7" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <g id="编组-4" transform="translate(2535.000000, 332.000000)">
+            <path d="M93.3758812,0.941666667 C94.3329892,0.941666667 95.2250066,1.42627864 95.7459159,2.22927912 L95.7459159,2.22927912 L109.517274,23.455722 C110.297816,23.5330977 110.984098,23.9290471 111.446361,24.5105441 C111.829618,24.9926563 112.058333,25.6029815 112.058333,26.2666667 L112.058333,26.2666667 L112.058333,56.2333333 C112.058333,57.0134355 111.742134,57.7196855 111.23091,58.23091 C110.719686,58.7421344 110.013436,59.0583333 109.233333,59.0583333 L109.233333,59.0583333 L3.76666667,59.0583333 C2.98656446,59.0583333 2.28031446,58.7421344 1.76909001,58.23091 C1.25786556,57.7196855 0.941666667,57.0134355 0.941666667,56.2333333 L0.941666667,56.2333333 L0.941666667,26.2666667 C0.941666667,25.6029815 1.17038242,24.9926563 1.55363926,24.5105441 C2.01590232,23.9290471 2.70218353,23.5330977 3.48272596,23.455722 L3.48272596,23.455722 L17.2541127,2.22923496 C17.7749934,1.42627864 18.6670108,0.941666667 19.6241188,0.941666667 L19.6241188,0.941666667 Z" id="形状结合" stroke="#585858" stroke-width="1.88333333" fill="#D9D9D9"></path>
+            <rect id="矩形" fill="#585858" x="3.76666667" y="22.5" width="105.466667" height="1.875"></rect>
+            <rect id="矩形" stroke="#585858" stroke-width="1.88333333" x="42.375" y="27.1916667" width="28.25" height="28.1166667" rx="14.0583333"></rect>
+            <ellipse id="椭圆形" fill="#585858" cx="56.5" cy="41.25" rx="11.3" ry="11.25"></ellipse>
+            <rect id="矩形" fill="#585858" x="7.53333333" y="31.875" width="26.3666667" height="5.625" rx="2.8125"></rect>
+            <rect id="矩形备份-2" fill="#585858" x="7.53333333" y="45" width="26.3666667" height="5.625" rx="2.8125"></rect>
+            <rect id="矩形备份-17" fill="#585858" x="79.1" y="31.875" width="26.3666667" height="5.625" rx="2.8125"></rect>
+            <rect id="矩形备份-3" fill="#585858" x="79.1" y="45" width="26.3666667" height="5.625" rx="2.8125"></rect>
+        </g>
+        <line x1="1694" y1="805.5" x2="2014" y2="805.5" id="直线备份-3" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1694" y1="1278" x2="2012.5" y2="1278.5" id="直线备份-9" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1694" y1="980.75" x2="1793.9999" y2="980.609944" id="直线备份-29" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1694" y1="1425.57003" x2="1793.9999" y2="1425.42997" id="直线备份-30" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1694" y1="1128.57003" x2="1793.9999" y2="1128.42997" id="直线备份-30" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="1694" y1="1703.5" x2="2012.5" y2="1703.5" id="直线备份-25" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="2213" y1="1704.5" x2="2490.89941" y2="1704.5" id="直线备份-26" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square"></line>
+        <g id="交换机" transform="translate(1492.000000, 1529.000000)">
+            <rect id="矩形备份-20" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="0" width="200" height="48"></rect>
+            <rect id="矩形备份-19" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="48" width="200" height="252"></rect>
+            <g id="编组" transform="translate(0.000000, 73.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(0.000000, 117.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(0.000000, 161.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(140.000000, 73.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(140.000000, 117.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(140.000000, 161.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(0.000000, 205.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <g id="编组" transform="translate(0.000000, 249.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <text fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="64" y="33">交换机</tspan>
+            </text>
+        </g>
+        <polyline id="直线备份-15" stroke="#FFCC00" stroke-width="3" stroke-linecap="square" points="2207.83101 1291 2243 1291 2243 1374.57044 2903.56088 1374.57044 2903.56088 1903.8639 428.5 1903.8639 428.5 981.5 1511.8278 980.609944"></polyline>
+        <line x1="2100.87386" y1="1277.5" x2="2525.92766" y2="1277.5" id="直线备份-10" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <line x1="2134" y1="805.5" x2="2534" y2="805.5" id="直线备份-8" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <g id="编组" transform="translate(2526.000000, 1260.000000)">
+            <g id="device-icon备份">
+                <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <text id="摄像机互联传出" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2479" y="1233">摄像机互联传出</tspan>
+        </text>
+        <g id="编组-5备份-2" transform="translate(2526.000000, 1043.000000)">
+            <g id="device-icon备份">
+                <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <text id="PPT互联传出" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2492" y="1016">PPT互联传出</tspan>
+        </text>
+        <g id="编组" transform="translate(2012.000000, 1260.000000)">
+            <g id="device-icon备份">
+                <path d="M166.459746,1 L199,15.0688745 L199,34 L1,34 L1,15.0688745 L33.540254,1 L166.459746,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="200" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <text id="高清互动录播主机" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="1981" y="1233">高清互动录播主机</tspan>
+        </text>
+        <g id="编组-5备份-3" transform="translate(2012.000000, 1686.000000)">
+            <g id="device-icon备份">
+                <path d="M166.459746,1 L199,15.0688745 L199,34 L1,34 L1,15.0688745 L33.540254,1 L166.459746,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="200" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <g id="编组-5备份-8" transform="translate(2492.000000, 1686.000000)">
+            <g id="device-icon备份">
+                <path d="M166.459746,1 L199,15.0688745 L199,34 L1,34 L1,15.0688745 L33.540254,1 L166.459746,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="200" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <text id="时序电源" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2509" y="1659">时序电源</tspan>
+        </text>
+        <g id="编组-5备份-8" transform="translate(2492.000000, 1835.000000)">
+            <g id="device-icon备份">
+                <path d="M166.459746,1 L199,15.0688745 L199,34 L1,34 L1,15.0688745 L33.540254,1 L166.459746,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="200" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <text id="音频处理器" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2497" y="1808">音频处理器</tspan>
+        </text>
+        <g id="编组-16" transform="translate(598.000000, 292.000000)">
+            <text id="讲台-1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="33" y="25">讲台 1</tspan>
+            </text>
+            <g id="编组-5备份-4" transform="translate(0.000000, 52.000000)">
+                <g id="device-icon备份">
+                    <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                    <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+                </g>
+                <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+            </g>
+        </g>
+        <line x1="730" y1="509.5" x2="1050" y2="509.5" id="直线备份-12" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <g id="编组-17" transform="translate(598.000000, 450.000000)">
+            <text id="讲台-2" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="31" y="25">讲台 2</tspan>
+            </text>
+            <g id="编组-5备份-5" transform="translate(0.000000, 42.000000)">
+                <g id="device-icon备份">
+                    <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                    <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+                </g>
+                <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+            </g>
+        </g>
+        <line x1="730" y1="657.5" x2="1050" y2="657.5" id="直线备份-13" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <g id="编组-18" transform="translate(598.000000, 598.000000)">
+            <text id="助教" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="37" y="25">助教</tspan>
+            </text>
+            <g id="编组-5备份-6" transform="translate(0.000000, 42.000000)">
+                <g id="device-icon备份">
+                    <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                    <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+                </g>
+                <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+            </g>
+        </g>
+        <line x1="730.5" y1="805.5" x2="1492" y2="805.5" id="直线备份-14" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <g id="编组-5备份-7" transform="translate(598.000000, 788.000000)">
+            <g id="device-icon备份">
+                <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <text id="无线投屏" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="581" y="761">无线投屏</tspan>
+        </text>
+        <g id="编组-5备份-7" transform="translate(146.000000, 344.000000)">
+            <g id="device-icon备份">
+                <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <path d="M1118.43471,779.205882 L1204.84445,779.205882 L1204.84445,671.311 C1225.23335,662.103667 1225.23335,654.333333 1204.84445,648 L1204.84445,522.748126 C1226.28994,513.916042 1226.28994,506 1204.84445,499 L1204.84445,371.950625 C1224.28938,364.222167 1224.28938,356.571959 1204.84445,349 L1204.84445,160.101773 L2471.57977,160.101773 L2471.57977,338 C2495.61439,351.333333 2495.61439,363.666667 2471.57977,375 C2471.57977,454.244119 2471.57977,493.866179 2471.57977,493.866179 L2548.69285,493.866179" id="路径-3备份" stroke="#FFCC00" stroke-width="3"></path>
+        <line x1="728" y1="1129.5" x2="1492" y2="1129.5" id="直线备份-16" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <g id="编组-5备份-9" transform="translate(598.000000, 1112.000000)">
+            <g id="device-icon备份">
+                <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <text id="互联传入-1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="572" y="1085">互联传入 1</tspan>
+        </text>
+        <g id="编组-18备份" transform="translate(1040.000000, 717.000000)">
+            <text id="分配器" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="30" y="25">分配器</tspan>
+            </text>
+            <g id="编组-5备份-6" transform="translate(0.000000, 42.000000)">
+                <g id="device-icon备份">
+                    <path d="M109.701621,1 L131,14.9521468 L131,61.4117647 L1,61.4117647 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                    <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+                </g>
+                <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+            </g>
+        </g>
+        <line x1="728" y1="1277.5" x2="1492" y2="1277.5" id="直线备份-17" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <g id="编组-5备份-10" transform="translate(598.000000, 1260.000000)">
+            <g id="device-icon备份">
+                <path d="M109.701621,1 L131,14.9521468 L131,34 L1,34 L1,14.9521468 L22.2983792,1 L109.701621,1 Z" id="形状结合" stroke="#585858" stroke-width="2" fill="#D9D9D9"></path>
+                <rect id="矩形" fill="#585858" x="0" y="14" width="132" height="2"></rect>
+            </g>
+            <circle id="椭圆形" fill="#585858" cx="11" cy="25" r="2"></circle>
+        </g>
+        <text id="互联传入-2" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="572" y="1233">互联传入 2</tspan>
+        </text>
+        <g id="编组-4备份" transform="translate(2535.000000, 480.000000)">
+            <path d="M93.3758812,0.941666667 C94.3329892,0.941666667 95.2250066,1.42627864 95.7459159,2.22927912 L95.7459159,2.22927912 L109.517274,23.455722 C110.297816,23.5330977 110.984098,23.9290471 111.446361,24.5105441 C111.829618,24.9926563 112.058333,25.6029815 112.058333,26.2666667 L112.058333,26.2666667 L112.058333,56.2333333 C112.058333,57.0134355 111.742134,57.7196855 111.23091,58.23091 C110.719686,58.7421344 110.013436,59.0583333 109.233333,59.0583333 L109.233333,59.0583333 L3.76666667,59.0583333 C2.98656446,59.0583333 2.28031446,58.7421344 1.76909001,58.23091 C1.25786556,57.7196855 0.941666667,57.0134355 0.941666667,56.2333333 L0.941666667,56.2333333 L0.941666667,26.2666667 C0.941666667,25.6029815 1.17038242,24.9926563 1.55363926,24.5105441 C2.01590232,23.9290471 2.70218353,23.5330977 3.48272596,23.455722 L3.48272596,23.455722 L17.2541127,2.22923496 C17.7749934,1.42627864 18.6670108,0.941666667 19.6241188,0.941666667 L19.6241188,0.941666667 Z" id="形状结合" stroke="#585858" stroke-width="1.88333333" fill="#D9D9D9"></path>
+            <rect id="矩形" fill="#585858" x="3.76666667" y="22.5" width="105.466667" height="1.875"></rect>
+            <rect id="矩形" stroke="#585858" stroke-width="1.88333333" x="42.375" y="27.1916667" width="28.25" height="28.1166667" rx="14.0583333"></rect>
+            <ellipse id="椭圆形" fill="#585858" cx="56.5" cy="41.25" rx="11.3" ry="11.25"></ellipse>
+            <rect id="矩形" fill="#585858" x="7.53333333" y="31.875" width="26.3666667" height="5.625" rx="2.8125"></rect>
+            <rect id="矩形备份-2" fill="#585858" x="7.53333333" y="45" width="26.3666667" height="5.625" rx="2.8125"></rect>
+            <rect id="矩形备份-17" fill="#585858" x="79.1" y="31.875" width="26.3666667" height="5.625" rx="2.8125"></rect>
+            <rect id="矩形备份-3" fill="#585858" x="79.1" y="45" width="26.3666667" height="5.625" rx="2.8125"></rect>
+        </g>
+        <g id="编组-8" transform="translate(2526.000000, 618.000000)">
+            <rect id="矩形" stroke="#585858" stroke-width="4" fill="#D9D9D9" x="2" y="2" width="126" height="76"></rect>
+            <text id="TV" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" fill="#585858">
+                <tspan x="50" y="49">TV</tspan>
+            </text>
+        </g>
+        <g id="编组-8备份" transform="translate(2526.000000, 766.000000)">
+            <rect id="矩形" stroke="#585858" stroke-width="4" fill="#D9D9D9" x="2" y="2" width="126" height="76"></rect>
+            <text id="TV" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" fill="#585858">
+                <tspan x="50" y="49">TV</tspan>
+            </text>
+        </g>
+        <text id="返显（右）" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2497" y="739">返显（右）</tspan>
+        </text>
+        <g id="面板触摸屏(1)" transform="translate(643.000000, 1756.000000)">
+            <rect id="矩形" fill="#D8D8D8" x="3" y="3" width="67" height="54"></rect>
+            <path d="M3.11022829,-1.76732637e-15 C1.36177561,-1.76732637e-15 0,1.46246279 0,3.11594944 L0,56.8573482 C0,58.510835 1.36177561,60 3.11022829,60 L69.8897717,60 C71.6382244,60 73,58.510835 73,56.8573482 L73,3.11594944 C73,1.46246273 71.6382244,-1.76732637e-15 69.8897717,-1.76732637e-15 L3.11022829,-1.76732637e-15 Z M3.31827731,3.24329873 L69.6817227,3.24329873 L69.6817227,56.7546473 L3.31617582,56.7546473 L3.31617582,3.24329873 L3.31827731,3.24329873 Z M36.5010507,5.42056075 C35.9079222,5.42056075 35.3598488,5.72984111 35.0632845,6.23189894 C34.7667202,6.73395677 34.7667202,7.35251752 35.0632845,7.85457535 C35.3598488,8.35663318 35.9079222,8.66591354 36.5010507,8.66591354 C37.417948,8.66591354 38.1612401,7.93941656 38.1612401,7.04323715 C38.1612401,6.14705773 37.417948,5.42056075 36.5010507,5.42056075 L36.5010507,5.42056075 Z M30.7975646,6.63859505 C30.6455119,6.64706725 30.5103436,6.73605667 30.445171,6.87059698 C30.3799984,7.0051373 30.3952358,7.16372935 30.4848961,7.28405806 C30.5745564,7.40438678 30.7243122,7.46722398 30.8753202,7.44787924 L33.3635029,7.44787924 C33.5114097,7.44787925 33.6480811,7.3707549 33.7220345,7.2455582 C33.7959879,7.1203615 33.7959879,6.96611279 33.7220345,6.84091609 C33.6480811,6.71571939 33.5114097,6.63859504 33.3635029,6.63859505 L30.8753202,6.63859505 C30.8494591,6.6362108 30.8234257,6.6362108 30.7975646,6.63859505 L30.7975646,6.63859505 Z M7.4666494,9.72989625 L7.4666494,50.2701038 L65.5354522,50.2701038 L65.5354522,9.72578824 L7.46244636,9.72578824 L7.4666494,9.72989625 Z M10.7849267,12.971141 L62.2150733,12.971141 L62.2150733,47.022697 L10.7849267,47.022697 L10.7849267,12.973195 L10.7849267,12.971141 Z M36.4989493,50.8267433 C35.6099125,50.8266044 34.7883478,51.2901031 34.3437883,52.0426114 C33.8992289,52.7951197 33.8992289,53.7222882 34.3437883,54.4747965 C34.7883478,55.2273048 35.6099125,55.6908034 36.4989493,55.6906645 C37.8729792,55.6904498 38.986734,54.6016868 38.986734,53.2587039 C38.986734,51.9157211 37.8729792,50.8269581 36.4989493,50.8267433 L36.4989493,50.8267433 Z M24.755736,52.8540618 C24.6001281,52.8633884 24.4627462,52.9565408 24.3993143,53.0957351 C24.3358823,53.2349294 24.3569322,53.3970546 24.4539258,53.5163503 C24.5509194,53.6356461 24.7077525,53.6923052 24.8608113,53.663346 L30.6672712,53.663346 C30.8959152,53.663346 31.0812678,53.4821816 31.0812678,53.2587039 C31.0812678,53.0352262 30.8959152,52.8540618 30.6672712,52.8540618 L24.8608113,52.8540618 C24.8259283,52.8496998 24.7906189,52.8496998 24.755736,52.8540618 L24.755736,52.8540618 Z M42.2549731,52.8540618 C42.1029204,52.862534 41.9677521,52.9515234 41.9025795,53.0860637 C41.8374069,53.2206041 41.8526443,53.3791961 41.9423047,53.4995248 C42.031965,53.6198535 42.1817207,53.6826907 42.3327288,53.663346 L48.1391887,53.663346 C48.3678328,53.663346 48.5531854,53.4821816 48.5531854,53.2587039 C48.5531854,53.0352262 48.3678328,52.8540618 48.1391887,52.8540618 L42.3327288,52.8540618 C42.3068676,52.8516776 42.2808343,52.8516776 42.2549731,52.8540618 L42.2549731,52.8540618 Z" id="形状" fill="#585858" fill-rule="nonzero"></path>
+        </g>
+        <text id="有线操作终端" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="572" y="1729">有线操作终端</tspan>
+        </text>
+        <text id="讲台电脑采集" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="100" y="317">讲台电脑采集</tspan>
+        </text>
+        <text id="投影机（左）" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2484" y="305">投影机（左）</tspan>
+        </text>
+        <text id="投影机（右）" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2484" y="453">投影机（右）</tspan>
+        </text>
+        <text id="返显（左）" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2496" y="591">返显（左）</tspan>
+        </text>
+        <text id="中控主机" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2029" y="1659">中控主机</tspan>
+        </text>
+        <text font-family="Helvetica-Bold, Helvetica" font-size="72" font-weight="bold" fill="#212121">
+            <tspan x="100.4375" y="133">A101</tspan>
+        </text>
+        <line x1="1454" y1="1425.75" x2="1553.9999" y2="1425.60994" id="直线备份-40" stroke="#FFCC00" stroke-width="3" stroke-linecap="square"></line>
+        <g id="视频矩阵" transform="translate(1492.000000, 247.000000)">
+            <rect id="矩形备份-4" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="7.10542736e-15" y="76" width="100" height="1140"></rect>
+            <rect id="矩形备份-5" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="100" y="76" width="100" height="1140"></rect>
+            <g id="matrix-input" transform="translate(0.000000, 100.000000)">
+                <g id="编组-2备份">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <g id="编组备份" transform="translate(60.000000, 0.000000)">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="9.568" y="17">1</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-input备份" transform="translate(0.000000, 248.000000)">
+                <g id="编组-2备份">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <g id="编组备份" transform="translate(60.000000, 0.000000)">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">2</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-input备份-2" transform="translate(0.000000, 396.000000)">
+                <g id="编组-2备份">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <g id="编组备份" transform="translate(60.000000, 0.000000)">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">3</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-input备份-3" transform="translate(0.000000, 720.000000)">
+                <g id="编组-2备份">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份" transform="translate(60.000000, 0.000000)">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">5</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-input备份-5" transform="translate(0.000000, 868.000000)">
+                <g id="编组-2备份">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份" transform="translate(60.000000, 0.000000)">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">6</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-input备份-6" transform="translate(0.000000, 1016.000000)">
+                <g id="编组-2备份">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份" transform="translate(60.000000, 0.000000)">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.424" y="17">7</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-input备份-7" transform="translate(0.000000, 1164.000000)">
+                <g id="编组-2备份">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份" transform="translate(60.000000, 0.000000)">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">8</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-input备份-4" transform="translate(0.000000, 544.000000)">
+                <g id="编组-2备份">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份" transform="translate(60.000000, 0.000000)">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">4</tspan>
+                    </text>
+                </g>
+            </g>
+            <rect id="矩形备份-16" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="0" width="200" height="48"></rect>
+            <rect id="矩形备份-15" stroke="#585858" stroke-width="2" fill="#E8E8E8" x="0" y="48" width="100" height="28"></rect>
+            <rect id="矩形备份-14" stroke="#585858" stroke-width="2" fill="#E8E8E8" x="100" y="48" width="100" height="28"></rect>
+            <rect id="矩形备份-21" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="1216" width="200" height="44"></rect>
+            <text fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="52" y="33">视频矩阵</tspan>
+            </text>
+            <g id="编组" transform="translate(140.000000, 1224.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <text id="IN备份-2" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                <tspan x="42" y="69">IN</tspan>
+            </text>
+            <text id="OUT备份-2" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                <tspan x="133" y="69">OUT</tspan>
+            </text>
+            <g id="matrix-output" transform="translate(112.000000, 100.000000)">
+                <g id="编组-2备份" transform="translate(28.000000, 0.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <g id="编组备份">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="9.568" y="17">1</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-output备份" transform="translate(112.000000, 248.000000)">
+                <g id="编组-2备份" transform="translate(28.000000, 0.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <g id="编组备份">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">2</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-output备份-2" transform="translate(112.000000, 396.000000)">
+                <g id="编组-2备份" transform="translate(28.000000, 0.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <g id="编组备份">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">3</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-output备份-3" transform="translate(112.000000, 544.000000)">
+                <g id="编组-2备份" transform="translate(28.000000, 0.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                    <rect id="矩形备份-8" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="28" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="49">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="56"></rect>
+                    <text id="4" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="9" y="35">4</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-output备份-5" transform="translate(112.000000, 720.000000)">
+                <g id="编组-2备份" transform="translate(28.000000, 0.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">5</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-output备份-6" transform="translate(112.000000, 868.000000)">
+                <g id="编组-2备份" transform="translate(28.000000, 0.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">6</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-output备份-7" transform="translate(112.000000, 1016.000000)">
+                <g id="编组-2备份" transform="translate(28.000000, 0.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.424" y="17">7</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="matrix-output备份-8" transform="translate(112.000000, 1164.000000)">
+                <g id="编组-2备份" transform="translate(28.000000, 0.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <g id="编组备份">
+                    <rect id="矩形备份-7" stroke="#585858" stroke-width="2" fill="#585858" x="0" y="0" width="28" height="28"></rect>
+                    <text id="1" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#FFFFFF">
+                        <tspan x="8.048" y="17">8</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="RX-Group" transform="translate(2014.000000, 287.000000)">
+            <g id="device/DTP">
+                <rect id="矩形备份-11" stroke="#585858" stroke-width="2" fill="#F0F0F0" x="0" y="0" width="120" height="32"></rect>
+                <rect id="矩形备份-10" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="0" y="32" width="60" height="28"></rect>
+                <rect id="矩形备份-9" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="60" y="32" width="60" height="28"></rect>
+                <rect id="矩形备份-13" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="60" width="60" height="28"></rect>
+                <g id="编组" transform="translate(0.000000, 60.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <rect id="矩形备份-12" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="60" y="60" width="60" height="28"></rect>
+                <g id="port备份" transform="translate(60.000000, 60.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <text id="DTP" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" line-spacing="28" fill="#212121">
+                    <tspan x="46.39" y="23">RX</tspan>
+                </text>
+                <text id="IN备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                    <tspan x="22" y="53">IN</tspan>
+                </text>
+                <text id="OUT备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                    <tspan x="73" y="53">OUT</tspan>
+                </text>
+            </g>
+            <g id="device/DTP" transform="translate(0.000000, 148.000000)">
+                <rect id="矩形备份-11" stroke="#585858" stroke-width="2" fill="#F0F0F0" x="0" y="0" width="120" height="32"></rect>
+                <rect id="矩形备份-10" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="0" y="32" width="60" height="28"></rect>
+                <rect id="矩形备份-9" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="60" y="32" width="60" height="28"></rect>
+                <rect id="矩形备份-13" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="60" width="60" height="28"></rect>
+                <g id="编组" transform="translate(0.000000, 60.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <rect id="矩形备份-12" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="60" y="60" width="60" height="28"></rect>
+                <g id="port备份" transform="translate(60.000000, 60.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <text id="DTP" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" line-spacing="28" fill="#212121">
+                    <tspan x="46.39" y="23">RX</tspan>
+                </text>
+                <text id="IN备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                    <tspan x="22" y="53">IN</tspan>
+                </text>
+                <text id="OUT备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                    <tspan x="73" y="53">OUT</tspan>
+                </text>
+            </g>
+            <g id="device/DTP" transform="translate(0.000000, 296.000000)">
+                <rect id="矩形备份-11" stroke="#585858" stroke-width="2" fill="#F0F0F0" x="0" y="0" width="120" height="32"></rect>
+                <rect id="矩形备份-10" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="0" y="32" width="60" height="28"></rect>
+                <rect id="矩形备份-9" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="60" y="32" width="60" height="28"></rect>
+                <rect id="矩形备份-13" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="60" width="60" height="28"></rect>
+                <g id="编组" transform="translate(0.000000, 60.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <rect id="矩形备份-12" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="60" y="60" width="60" height="28"></rect>
+                <g id="port备份" transform="translate(60.000000, 60.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <text id="DTP" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" line-spacing="28" fill="#212121">
+                    <tspan x="46.39" y="23">RX</tspan>
+                </text>
+                <text id="IN备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                    <tspan x="22" y="53">IN</tspan>
+                </text>
+                <text id="OUT备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                    <tspan x="73" y="53">OUT</tspan>
+                </text>
+            </g>
+            <g id="device/DTP" transform="translate(0.000000, 444.000000)">
+                <rect id="矩形备份-11" stroke="#585858" stroke-width="2" fill="#F0F0F0" x="0" y="0" width="120" height="32"></rect>
+                <rect id="矩形备份-10" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="0" y="32" width="60" height="28"></rect>
+                <rect id="矩形备份-9" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="60" y="32" width="60" height="28"></rect>
+                <rect id="矩形备份-13" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="60" width="60" height="28"></rect>
+                <g id="编组" transform="translate(0.000000, 60.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="10.5" y="21">RJ45</tspan>
+                    </text>
+                </g>
+                <rect id="矩形备份-12" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="60" y="60" width="60" height="28"></rect>
+                <g id="port备份" transform="translate(60.000000, 60.000000)">
+                    <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                    <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                        <tspan x="9" y="21">HDMI</tspan>
+                    </text>
+                </g>
+                <text id="DTP" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" line-spacing="28" fill="#212121">
+                    <tspan x="46.39" y="23">RX</tspan>
+                </text>
+                <text id="IN备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                    <tspan x="22" y="53">IN</tspan>
+                </text>
+                <text id="OUT备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                    <tspan x="73" y="53">OUT</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="device/DTP备份" transform="translate(1050.000000, 287.000000)">
+            <rect id="矩形备份-11" stroke="#585858" stroke-width="2" fill="#F0F0F0" x="0" y="0" width="120" height="32"></rect>
+            <rect id="矩形备份-10" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="0" y="32" width="60" height="28"></rect>
+            <rect id="矩形备份-9" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="60" y="32" width="60" height="28"></rect>
+            <rect id="矩形备份-13" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="60" width="60" height="28"></rect>
+            <g id="port备份" transform="translate(0.000000, 60.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="9" y="21">HDMI</tspan>
+                </text>
+            </g>
+            <rect id="矩形备份-12" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="60" y="60" width="60" height="28"></rect>
+            <g id="port备份" transform="translate(60.000000, 60.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <text id="DTP" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" line-spacing="28" fill="#212121">
+                <tspan x="47.21" y="23">TX</tspan>
+            </text>
+            <text id="IN备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                <tspan x="22" y="53">IN</tspan>
+            </text>
+            <text id="OUT备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                <tspan x="73" y="53">OUT</tspan>
+            </text>
+        </g>
+        <g id="device/DTP备份" transform="translate(1050.000000, 435.000000)">
+            <rect id="矩形备份-11" stroke="#585858" stroke-width="2" fill="#F0F0F0" x="0" y="0" width="120" height="32"></rect>
+            <rect id="矩形备份-10" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="0" y="32" width="60" height="28"></rect>
+            <rect id="矩形备份-9" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="60" y="32" width="60" height="28"></rect>
+            <rect id="矩形备份-13" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="60" width="60" height="28"></rect>
+            <g id="port备份" transform="translate(0.000000, 60.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="9" y="21">HDMI</tspan>
+                </text>
+            </g>
+            <rect id="矩形备份-12" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="60" y="60" width="60" height="28"></rect>
+            <g id="port备份" transform="translate(60.000000, 60.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <text id="DTP" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" line-spacing="28" fill="#212121">
+                <tspan x="47.21" y="23">TX</tspan>
+            </text>
+            <text id="IN备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                <tspan x="22" y="53">IN</tspan>
+            </text>
+            <text id="OUT备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                <tspan x="73" y="53">OUT</tspan>
+            </text>
+        </g>
+        <g id="device/DTP备份" transform="translate(1050.000000, 583.000000)">
+            <rect id="矩形备份-11" stroke="#585858" stroke-width="2" fill="#F0F0F0" x="0" y="0" width="120" height="32"></rect>
+            <rect id="矩形备份-10" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="0" y="32" width="60" height="28"></rect>
+            <rect id="矩形备份-9" stroke="#585858" stroke-width="2" fill="#FAFAFA" x="60" y="32" width="60" height="28"></rect>
+            <rect id="矩形备份-13" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="0" y="60" width="60" height="28"></rect>
+            <g id="port备份" transform="translate(0.000000, 60.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="9" y="21">HDMI</tspan>
+                </text>
+            </g>
+            <rect id="矩形备份-12" stroke="#585858" stroke-width="2" fill="#D9D9D9" x="60" y="60" width="60" height="28"></rect>
+            <g id="port备份" transform="translate(60.000000, 60.000000)">
+                <rect id="矩形备份-6" stroke="#585858" stroke-width="2" fill="#FFFFFF" x="0" y="0" width="60" height="28"></rect>
+                <text id="HDMI" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121">
+                    <tspan x="10.5" y="21">RJ45</tspan>
+                </text>
+            </g>
+            <text id="DTP" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="20" font-weight="500" line-spacing="28" fill="#212121">
+                <tspan x="47.21" y="23">TX</tspan>
+            </text>
+            <text id="IN备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                <tspan x="22" y="53">IN</tspan>
+            </text>
+            <text id="OUT备份" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#656565">
+                <tspan x="73" y="53">OUT</tspan>
+            </text>
+        </g>
+        <text id="投影幕（左）" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2878" y="217">投影幕（左）</tspan>
+        </text>
+        <g id="编组-2" transform="translate(2854.000000, 244.000000)">
+            <rect id="矩形" stroke="#585858" stroke-width="2" fill="#D8D8D8" x="0" y="0" width="262" height="12"></rect>
+            <rect id="矩形备份-22" stroke="#585858" stroke-width="2" fill="#D8D8D8" x="3" y="12" width="256" height="134"></rect>
+            <rect id="矩形备份-23" stroke="#585858" stroke-width="2" fill="#D8D8D8" transform="translate(131.000000, 147.000000) scale(1, -1) translate(-131.000000, -147.000000) " x="0" y="146" width="262" height="2"></rect>
+            <circle id="椭圆形" fill="#585858" cx="10" cy="6" r="2"></circle>
+        </g>
+        <text id="投影幕（右）" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+            <tspan x="2878" y="453">投影幕（右）</tspan>
+        </text>
+        <g id="编组-2备份-2" transform="translate(2854.000000, 480.000000)">
+            <rect id="矩形" stroke="#585858" stroke-width="2" fill="#D8D8D8" x="0" y="0" width="262" height="12"></rect>
+            <rect id="矩形备份-22" stroke="#585858" stroke-width="2" fill="#D8D8D8" x="3" y="12" width="256" height="134"></rect>
+            <rect id="矩形备份-23" stroke="#585858" stroke-width="2" fill="#D8D8D8" transform="translate(131.000000, 147.000000) scale(1, -1) translate(-131.000000, -147.000000) " x="0" y="146" width="262" height="2"></rect>
+            <circle id="椭圆形" fill="#585858" cx="10" cy="6" r="2"></circle>
+        </g>
+        <polyline id="直线备份-38" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square" points="1492 1621 1045.21507 1621 1045.21507 1475.09352 705.215073 1475.09352"></polyline>
+        <polyline id="直线备份-39" stroke="#0A7AFF" stroke-width="3" stroke-linecap="square" points="1492 1661 995.215073 1661 995.215073 1586 711 1586"></polyline>
+        <g id="编组-20备份-2" transform="translate(619.000000, 1518.000000)">
+            <text id="学生摄像机" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="0" y="25">学生摄像机</tspan>
+            </text>
+            <g id="编组-6" transform="translate(27.000000, 52.000000)" fill="#D8D8D8" stroke="#585858" stroke-width="2">
+                <rect id="矩形" x="1" y="1" width="46" height="30" rx="2"></rect>
+                <path d="M62.6488766,5.94967176 C62.9074367,5.8527117 63.1808198,5.86973305 63.4138029,5.97563446 C63.646786,6.08153587 63.8393691,6.27631733 63.9363292,6.53487749 L63.9363292,6.53487749 L64,25.2796182 C64,25.5557605 63.8880712,25.8057605 63.7071068,25.986725 C63.5261424,26.1676894 63.2761424,26.2796182 63,26.2796182 L63,26.2796182 L50.701725,22.4840982 C50.4929874,22.4188677 50.3175562,22.2895939 50.1943093,22.1219547 C50.0710625,21.9543154 50,21.7483107 50,21.5296182 L50,21.5296182 L50,11.3860009 C50,11.1775787 50.0646432,10.9800873 50.1780744,10.8164061 C50.2915056,10.6527249 50.4537247,10.5228537 50.6488766,10.4496718 L50.6488766,10.4496718 Z" id="矩形备份-18"></path>
+            </g>
+        </g>
+        <g id="编组-20备份-4" transform="translate(619.000000, 1407.000000)">
+            <text id="学生摄像机" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="0" y="25">学生摄像机</tspan>
+            </text>
+            <g id="编组-6" transform="translate(27.000000, 52.000000)" fill="#D8D8D8" stroke="#585858" stroke-width="2">
+                <rect id="矩形" x="1" y="1" width="46" height="30" rx="2"></rect>
+                <path d="M62.6488766,5.94967176 C62.9074367,5.8527117 63.1808198,5.86973305 63.4138029,5.97563446 C63.646786,6.08153587 63.8393691,6.27631733 63.9363292,6.53487749 L63.9363292,6.53487749 L64,25.2796182 C64,25.5557605 63.8880712,25.8057605 63.7071068,25.986725 C63.5261424,26.1676894 63.2761424,26.2796182 63,26.2796182 L63,26.2796182 L50.701725,22.4840982 C50.4929874,22.4188677 50.3175562,22.2895939 50.1943093,22.1219547 C50.0710625,21.9543154 50,21.7483107 50,21.5296182 L50,21.5296182 L50,11.3860009 C50,11.1775787 50.0646432,10.9800873 50.1780744,10.8164061 C50.2915056,10.6527249 50.4537247,10.5228537 50.6488766,10.4496718 L50.6488766,10.4496718 Z" id="矩形备份-18"></path>
+            </g>
+        </g>
+        <g id="编组-20备份-3" transform="translate(858.000000, 1644.000000)">
+            <text id="教师摄像机" fill-rule="nonzero" font-family="PingFangSC-Semibold, PingFang SC" font-size="24" font-weight="500" line-spacing="32" fill="#212121">
+                <tspan x="0" y="25">教师摄像机</tspan>
+            </text>
+            <g id="编组-6" transform="translate(27.000000, 52.000000)" fill="#D8D8D8" stroke="#585858" stroke-width="2">
+                <rect id="矩形" x="1" y="1" width="46" height="30" rx="2"></rect>
+                <path d="M62.6488766,5.94967176 C62.9074367,5.8527117 63.1808198,5.86973305 63.4138029,5.97563446 C63.646786,6.08153587 63.8393691,6.27631733 63.9363292,6.53487749 L63.9363292,6.53487749 L64,25.2796182 C64,25.5557605 63.8880712,25.8057605 63.7071068,25.986725 C63.5261424,26.1676894 63.2761424,26.2796182 63,26.2796182 L63,26.2796182 L50.701725,22.4840982 C50.4929874,22.4188677 50.3175562,22.2895939 50.1943093,22.1219547 C50.0710625,21.9543154 50,21.7483107 50,21.5296182 L50,21.5296182 L50,11.3860009 C50,11.1775787 50.0646432,10.9800873 50.1780744,10.8164061 C50.2915056,10.6527249 50.4537247,10.5228537 50.6488766,10.4496718 L50.6488766,10.4496718 Z" id="矩形备份-18"></path>
+            </g>
+        </g>
+        <g id="EDID" transform="translate(298.000000, 345.000000)">
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:8" transform="translate(1414.000000, 1065.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:6" transform="translate(1414.000000, 768.000000)">
+                <rect id="矩形" fill="" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                  
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:1" transform="translate(1855.000000, 0.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:2" transform="translate(1855.000000, 148.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:3" transform="translate(1855.000000, 296.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:4" transform="translate(1855.000000, 444.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="2f5ddd74-284f-7ffc-8290-a36016e77d38:inputEDIDs:1" transform="translate(2041.000000, 699.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="a4032f81-a4fa-a891-bb77-a1d55986bc9c:inputEDIDs:1" transform="translate(2041.000000, 917.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:7" transform="translate(1414.000000, 917.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:5" transform="translate(1414.000000, 620.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:outputEDIDs:4" transform="translate(1414.000000, 473.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:inputEDIDs:1" transform="translate(565.000000, 0.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="dccd66f4-6cc3-681a-29a8-4a434f95d0ab:outputEDIDs:1" transform="translate(0.000000, 1.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:inputEDIDs:2" transform="translate(565.000000, 148.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:inputEDIDs:4" transform="translate(1007.000000, 445.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:inputEDIDs:8" transform="translate(1007.000000, 1065.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:inputEDIDs:5" transform="translate(1007.000000, 620.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:inputEDIDs:6" transform="translate(1007.000000, 768.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:inputEDIDs:7" transform="translate(1007.000000, 917.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="deab3169-8433-056a-7d4f-ae325cd45453:outputEDIDs:1" transform="translate(452.000000, 768.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="82a974dd-950b-9e46-b2cc-b7090a5304f1:outputEDIDs:1" transform="translate(452.000000, 917.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:inputEDIDs:3" transform="translate(565.000000, 296.000000)">
+                <rect id="矩形" fill="#FFCC00" x="0" y="0" width="167" height="32" rx="4"></rect>
+                <text id="1920*1080-@-60Hz" font-family="PingFangSC-Semibold, PingFang SC" font-size="16" font-weight="500" line-spacing="20" fill="#212121" x="84" y="17" dominant-baseline="middle" text-anchor="middle">
+                    1920*1080 @ 60Hz
+                </text>
+            </g>
+        </g>
+        <g id="DeviceCod" transform="translate(254.000000, 192.000000)">
+            <g id="a4032f81-a4fa-a891-bb77-a1d55986bc9c:online" transform="translate(2403.000000, 1016.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="2f5ddd74-284f-7ffc-8290-a36016e77d38:online" transform="translate(2391.000000, 799.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="0c38147b-bcf3-8a0d-0302-15fc61ce5692:online" transform="translate(1929.000000, 1016.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="8d9c00cd-2235-e1a3-254a-cfa43b688e0b:online" transform="translate(2361.000000, 1442.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="96079f99-10c1-a0bc-8d2c-13175fa380e1:online" transform="translate(2373.000000, 1591.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="7fcfdc4d-5b0c-cd7b-4a72-895c81c37dc6:online" transform="translate(437.000000, 544.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="deab3169-8433-056a-7d4f-ae325cd45453:online" transform="translate(442.000000, 868.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="82a974dd-950b-9e46-b2cc-b7090a5304f1:online" transform="translate(442.000000, 1016.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="7d8b7a7c-892d-9efc-528f-58ea463cbb4c:online" transform="translate(2373.000000, 522.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="5ca17978-1b8e-5778-d199-e01d164609c4:online" transform="translate(472.000000, 1512.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="dccd66f4-6cc3-681a-29a8-4a434f95d0ab:online" transform="translate(0.000000, 100.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="c23227ab-38df-4d0b-dd20-f38a5bd71dc4:online" transform="translate(2384.000000, 88.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="4a7b7fc8-e7e0-91fe-2fab-05ff1262b582:online" transform="translate(2384.000000, 236.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="8c89c100-e4e0-dc0f-cc06-4fd3e6e9d82a:online" transform="translate(2372.000000, 374.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="ca8a1e43-7bb1-1e79-6842-cbb6b8e81c81:online" transform="translate(1881.000000, 1442.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="7ad0a446-2642-898e-1ba1-3680ffc45741:online" transform="translate(1458.000000, 63.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="80e0a312-d771-c1fa-86d0-1d48deab291c:online" transform="translate(2778.000000, 0.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+            <g id="c113609b-ae39-32c7-a46d-4b8ae488118a:online" transform="translate(2778.000000, 236.000000)">
+                <rect id="矩形" fill="#34C759" x="0" y="0" width="60" height="32" rx="4"></rect>
+                <text id="在线" font-family="PingFangSC-Semibold, PingFang SC" font-size="18" font-weight="500" line-spacing="20" fill="#FFFFFF" x="30" y="17" dominant-baseline="middle" text-anchor="middle">
+                   在线
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
