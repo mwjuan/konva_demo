@@ -20,6 +20,7 @@ class ShapeDemo extends Component {
         }
     }
 
+    // 鼠标滑动事件
     handleWheel = (e, scaleBy) => {
         e.evt.preventDefault();
 
@@ -52,6 +53,7 @@ class ShapeDemo extends Component {
         this.setState({ newScale })
     }
 
+    // 鼠标双击事件
     onDblClick = (e) => {
         e.evt.preventDefault();
         let { components } = this.state;
@@ -76,11 +78,14 @@ class ShapeDemo extends Component {
         this.setState({ components })
     }
 
+    // 鼠标拖拽时间
     onDragEnd = (e) => {
         e.evt.preventDefault();
+        // 拖拽后Stage的区域坐标发生变化，重新计算坐标点位置
         this.handleWheel(e, 1);
     }
 
+    // 获取坐标按钮点击事件
     show = () => {
         notification.open({
             message: '坐标信息',
@@ -88,7 +93,7 @@ class ShapeDemo extends Component {
                 <div>
                     {
                         _.map(this.state.components, p => {
-                            return <p>id:{p.id}    x:{p.x}    y:{p.y}</p>
+                            return <p> x:{p.x}    y:{p.y}</p>
                         })
                     }
                 </div>
@@ -110,25 +115,25 @@ class ShapeDemo extends Component {
                 y={this.state.stageY}
                 scaleX={this.state.stageScale}
                 scaleY={this.state.stageScale}
-                onWheel={this.handleWheel}
-                onDblClick={this.onDblClick}
-                onDragEnd={this.onDragEnd}
+                onWheel={this.handleWheel}  // 鼠标滑动事件
+                onDblClick={this.onDblClick} // 鼠标双击事件
+                onDragEnd={this.onDragEnd}  //鼠标拖拽时间
             >
                 <Layer>
+                    {/* 背景图，支持png、svg格式 */}
                     <URLImage src={bg} x={170} />
+                    {/* 遍历标点列表 */}
                     {this.state.components.map(p => {
-                        return <div style={{ width: 30, height: 30, borderRadius: 12, background: 'red' }}>
-                            <Circle
-                                style={{ width: 30, height: 30, background: 'red' }}
-                                id={p.id}
-                                x={p.x}
-                                y={p.y}
-                                draggable
-                                radius={12}
-                                fill='#009848'
-                                draggable={true}
-                            />
-                        </div>
+                        // 设置标点形状为Circle，还可以设置为Rect、Ring、Star
+                        return <Circle
+                            style={{ width: 30, height: 30, background: 'red' }}
+                            id={p.id}
+                            x={p.x}
+                            y={p.y}
+                            draggable //设置是否允许拖拽
+                            radius={12}
+                            fill='#009848'
+                        />
                     })}
                 </Layer>
             </Stage>

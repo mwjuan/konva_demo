@@ -22,6 +22,7 @@ export default ({
           <React.Fragment key={rowKey}>
             {row.map((seat, seatIndex) => {
               return (
+                // 单个工位模块
                 <Seat
                   key={seat.name}
                   x={seatIndex * SEATS_DISTANCE + SUBSECTION_PADDING}
@@ -59,6 +60,7 @@ export default ({
           />
         );
       })}
+      {/* 白色行区块中的单个方形模块 */}
       <Text text={data.name} width={width} align="center" y={-10} />
     </Group>
   );

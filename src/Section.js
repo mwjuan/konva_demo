@@ -28,6 +28,8 @@ export default React.memo(
     }, [section, selectedSeatsIds]);
     const width = getSectionWidth(section);
     let lastSubsectionX = 0;
+
+    // 白色区块整体为一个Group组，包含一个Rect长方形
     return (
       <Group y={y} x={x} ref={containerRef}>
         <Rect
@@ -43,6 +45,7 @@ export default React.memo(
           const pos = lastSubsectionX;
           lastSubsectionX += subWidth;
 
+          // Rect长方形中包含一个Group
           return (
             <SubSection
               x={pos}
@@ -58,14 +61,16 @@ export default React.memo(
             />
           );
         })}
-        {/* <Text
+
+         {/* 显示工位区块名称 */}
+        <Text
           text={section.name}
           height={SECTION_TOP_PADDING}
           width={width}
           align="center"
           verticalAlign="middle"
           fontSize={20}
-        /> */}
+        />
       </Group>
     );
   }
