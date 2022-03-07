@@ -36,6 +36,9 @@ class URLImage extends React.Component {
   render() {
     return (
       <Image
+        width={1000}
+        height={800}
+        stroke={this.props.stroke}
         x={this.props.x}
         y={this.props.y}
         image={this.state.image}
