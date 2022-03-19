@@ -1,4 +1,4 @@
-### 工作原理
+# 工作原理
 Konva 的对象是以一颗树的形式保存的，Konva Tree 主要包括以下几部分：
 - Stage 根节点：这是应用的根节点，会创建一个 div 节点，作为事件的接收层，根据事件触发时的坐标来分发出去。一个 Stage 节点可以包含多个 Layer 图层。
 - Layer 图层：每一个 Layer 有两个 canvas 渲染器（场景渲染器和图像命中检测渲染器）。场景渲染器输出用户看见的内容，图像命中渲染器在隐藏的 canvas 里用于高性能的检测事件。一个 Layer 可以包含多个 Group 和 Shape。
@@ -12,7 +12,7 @@ Konva 的对象是以一颗树的形式保存的，Konva Tree 主要包括以下
 
 [在线预览](https://mwjuan.github.io/konva_demo/)
 
-### 参考文档
+# 参考文档
 - [canva框架之konva.js的使用说明](https://www.jianshu.com/p/fa030213817a)
 - [KonvaJS 原理解析](https://zhuanlan.zhihu.com/p/419008773)
 - [Konva Class API](http://konvajs-doc.bluehymn.com/api/Konva.html)
