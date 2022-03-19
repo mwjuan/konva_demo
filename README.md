@@ -10,4 +10,9 @@ Konva 的对象是以一颗树的形式保存的，Konva Tree 主要包括以下
 - 问：画布在拖拽或缩放后，鼠标双击产生点的位置出现偏移，如何解决？
 - 答：画布拖拽或缩放后，会在相应的onWheel和onDragEnd事件中产生一个scale系数， 在鼠标双击onDblClick方法中，判断scale不为空，则表示经过缩放或拖拽。当前双击的坐标位置（x,y）是在未缩放和拖拽前的画布尺寸下产生的位置，经过与scale和当前stage的坐标位置换算得到实际的坐标，从而解决问题。
 
-在线预览：https://mwjuan.github.io/konva_demo/
+[在线预览](https://mwjuan.github.io/konva_demo/)
+
+### 参考文档
+- [canva框架之konva.js的使用说明](https://www.jianshu.com/p/fa030213817a)
+- [KonvaJS 原理解析](https://zhuanlan.zhihu.com/p/419008773)
+- [Konva Class API](http://konvajs-doc.bluehymn.com/api/Konva.html)
