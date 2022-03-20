@@ -21,7 +21,8 @@ class ShapeDemo extends Component {
             currentShape: null,
             stroke: 'transparent',
             selectedShape: null,
-            value: null
+            value: null,
+            newPos: { x: 0, y: 0 }
         }
     }
 
@@ -59,7 +60,7 @@ class ShapeDemo extends Component {
         };
 
         stage.position(newPos);
-        this.setState({ newScale })
+        this.setState({ newScale, newPos })
     }
 
     // 鼠标双击事件
@@ -71,7 +72,7 @@ class ShapeDemo extends Component {
         var pointer = stage.getPointerPosition();
         let x = pointer.x;
         let y = pointer.y;
-        let id = Math.round(Math.random() * 100);
+        let id = Math.random() * 100;
 
         var mousePointTo = {
             x: (pointer.x - stage.x()) / this.state.newScale,
@@ -93,7 +94,11 @@ class ShapeDemo extends Component {
         e.evt.preventDefault();
         // 拖拽后Stage的区域坐标发生变化，重新计算坐标点位置
         this.handleWheel(e, 1);
-        this.setState({ stroke: 'transparent' })
+        this.setState({
+            stroke: 'transparent',
+            stageX: e.target.attrs.type === 'pot' ? 0 : e.target.attrs.x,
+            stageY: e.target.attrs.type === 'pot' ? 0 : e.target.attrs.y
+        })
     }
 
     // 获取坐标按钮点击事件
@@ -218,46 +223,6 @@ class ShapeDemo extends Component {
         };
     }
 
-    getObjectSnappingEdges = (node) => {
-        var box = node.getClientRect();
-        return {
-            vertical: [
-                {
-                    guide: Math.round(box.x),
-                    offset: Math.round(node.x() - box.x),
-                    snap: 'start'
-                },
-                {
-                    guide: Math.round(box.x + box.width / 2),
-                    offset: Math.round(node.x() - box.x - box.width / 2),
-                    snap: 'center'
-                },
-                {
-                    guide: Math.round(box.x + box.width),
-                    offset: Math.round(node.x() - box.x - box.width),
-                    snap: 'end'
-                }
-            ],
-            horizontal: [
-                {
-                    guide: Math.round(box.y),
-                    offset: Math.round(node.y() - box.y),
-                    snap: 'start'
-                },
-                {
-                    guide: Math.round(box.y + box.height / 2),
-                    offset: Math.round(node.y() - box.y - box.height / 2),
-                    snap: 'center'
-                },
-                {
-                    guide: Math.round(box.y + box.height),
-                    offset: Math.round(node.y() - box.y - box.height),
-                    snap: 'end'
-                }
-            ]
-        };
-    }
-
     getGuides = (lineGuideStops, itemBounds) => {
         var resultV = [];
         var resultH = [];
@@ -315,32 +280,30 @@ class ShapeDemo extends Component {
         return guides;
     }
 
-    drawGuides = (guides, layer, scaleX, scaleY, stage) => {
-        // let { newScale } = this.state;
-        // if (!newScale) {
-        //     newScale = 1;
-        // }
+    drawGuides = (guides, layer, scaleX, scaleY) => {
         guides.forEach(lg => {
+            let opt = {
+                stroke: "rgb(0, 161, 255)",
+                strokeWidth: 1,
+                name: "guid-line",
+                dash: [4, 6],
+            };
             if (lg.orientation === 'H') {
-                var line = new Konva.Line({
-                    points: [-6000, lg.lineGuide * scaleX, 6000, lg.lineGuide * scaleX],
-                    // points: [-6000, (lg.lineGuide + stage.x()) / newScale, 6000,  (lg.lineGuide + stage.x()) / newScale],
-                    stroke: 'rgb(0, 161, 255)',
-                    strokeWidth: 1,
-                    name: 'guid-line',
-                    dash: [4, 6]
-                });
+                opt["points"] = [
+                    -6000, (lg.lineGuide - this.state.newPos.y) / scaleY,
+                    6000, (lg.lineGuide - this.state.newPos.y) / scaleY
+                ];
+                var line = new Konva.Line(opt);
                 layer.add(line);
                 layer.batchDraw();
             } else if (lg.orientation === 'V') {
-                var line = new Konva.Line({
-                    points: [lg.lineGuide * scaleY, -6000, lg.lineGuide * scaleY, 6000],
-                    // points: [ (lg.lineGuide + stage.y()) / newScale, -6000,  (lg.lineGuide + stage.y()) / newScale, 6000],
-                    stroke: 'rgb(0, 161, 255)',
-                    strokeWidth: 1,
-                    name: 'guid-line',
-                    dash: [4, 6]
-                });
+                opt["points"] = [
+                    (lg.lineGuide - this.state.newPos.x) / scaleX, 
+                    -6000,
+                    (lg.lineGuide - this.state.newPos.x) / scaleX, 
+                    6000,
+                ];
+                let line = new Konva.Line(opt);
                 layer.add(line);
                 layer.batchDraw();
             }
@@ -371,7 +334,7 @@ class ShapeDemo extends Component {
             return;
         }
 
-        this.drawGuides(guides, layer, scaleX, scaleY, stage);
+        this.drawGuides(guides, layer, scaleX, scaleY);
 
         // now force object position
         guides.forEach(lg => {
@@ -499,8 +462,8 @@ class ShapeDemo extends Component {
                 draggable
                 width={window.innerWidth}
                 height={window.innerHeight}
-                x={this.state.stageX}
-                y={this.state.stageY}
+                // x={this.state.stageX}
+                // y={this.state.stageY}
                 scaleX={this.state.stageScale}
                 scaleY={this.state.stageScale}
                 onWheel={this.handleWheel}  // 鼠标滑动事件
