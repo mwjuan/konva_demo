@@ -298,9 +298,9 @@ class ShapeDemo extends Component {
                 layer.batchDraw();
             } else if (lg.orientation === 'V') {
                 opt["points"] = [
-                    (lg.lineGuide - this.state.newPos.x) / scaleX, 
+                    (lg.lineGuide - this.state.newPos.x) / scaleX,
                     -6000,
-                    (lg.lineGuide - this.state.newPos.x) / scaleX, 
+                    (lg.lineGuide - this.state.newPos.x) / scaleX,
                     6000,
                 ];
                 let line = new Konva.Line(opt);
@@ -493,9 +493,7 @@ class ShapeDemo extends Component {
                             radius={16}
                             fill={p.fill}
                             strokeWidth={8}
-                            shadowBlur={p.selected ? 5 : 0}
-                            shadowColor={'#000'}
-                            stroke={'#fff'}
+                            stroke={p.selected ? '#FFFF00' : '#fff'}
                             name='object'
                         />
                     })}
