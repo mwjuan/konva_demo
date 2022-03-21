@@ -6,6 +6,8 @@ import URLImage from './URLImage';
 import { notification, Modal, Button, Input } from 'antd';
 import _ from 'lodash';
 import './styles.css';
+import shortid from 'shortid';
+
 const { confirm } = Modal;
 var GUIDELINE_OFFSET = 5;
 class ShapeDemo extends Component {
@@ -72,17 +74,20 @@ class ShapeDemo extends Component {
         var pointer = stage.getPointerPosition();
         let x = pointer.x;
         let y = pointer.y;
-        let id = Math.random() * 100;
+        let id = shortid();
 
+        let fill = '#009848';
+        let code = shortid();
         var mousePointTo = {
             x: (pointer.x - stage.x()) / this.state.newScale,
             y: (pointer.y - stage.y()) / this.state.newScale,
             id,
-            fill: '#009848'
+            fill,
+            code
         };
 
         if (!this.state.newScale) {
-            components.push({ x, y, id, fill: '#009848' })
+            components.push({ x, y, id, fill, code })
         } else {
             components.push(mousePointTo)
         }
@@ -411,7 +416,7 @@ class ShapeDemo extends Component {
             message: '编辑标点',
             description: <div style={{ display: 'flex', flexDirection: 'column' }}>
                 id：{selectedShape.id}
-                <div style={{ display: 'flex', alignItems: 'center' }}>预订时间：<Input defaultValue={selectedShape.createdAt} onChange={element => this.onBookingTimeChange(element.target.value)} style={{ width: 220 }} /></div>
+                <div style={{ display: 'flex', alignItems: 'center' }}>编号： <Input defaultValue={selectedShape.code} onChange={element => this.onBookingTimeChange(element.target.value)} style={{ width: 220 }} /></div>
                 <div style={{ display: 'flex', flexDirection: 'row', marginTop: 10 }}>
                     <Button size='small' type='primary' onClick={this.deletePot}>删除</Button>
                     <Button size='small' style={{ marginLeft: 10 }} onClick={this.onSave}>保存</Button>
@@ -431,7 +436,7 @@ class ShapeDemo extends Component {
         let { components, selectedShape, value } = this.state;
         _.map(components, p => {
             if (p.id === selectedShape.id) {
-                p.createdAt = value;
+                p.code = value;
                 p.selected = false;
             }
         })
@@ -448,6 +453,17 @@ class ShapeDemo extends Component {
 
         notification.destroy();
         this.setState({ components, selectedShape: null })
+    }
+
+    onCircleDragEnd = (e) => {
+        e.evt.preventDefault();
+        let pointer = e.target.attrs;
+        _.map(this.state.components, p => {
+            if (p.id === pointer.id) {
+                p.x = pointer.x;
+                p.y = pointer.y;
+            }
+        })
     }
 
     render() {
@@ -483,9 +499,9 @@ class ShapeDemo extends Component {
                             onClick={this.onShapeClick}
                             onMouseOver={this.onMouseOver}
                             onMouseLeave={this.onMouseLeave}
+                            onDragEnd={this.onCircleDragEnd}
                             type='pot'
                             key={p.id}
-                            style={{ width: 30, height: 30 }}
                             id={p.id}
                             x={p.x}
                             y={p.y}
